@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -9,9 +10,20 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        mainTextColor: "#EFEFF0",
+        lightsky: "#C9F0FF",
+        lightgreen: "#EAFFFD",
+        lightpink: "#D5CAD6",
+        lightbrown: "#6B5E62",
       },
+      fontWeight: {
+        black: '900',
+      },
+      fontSize: {
+        heading: "1.875rem",
+        normal: "1.25rems",
+
+      }
     },
   },
   plugins: [],
