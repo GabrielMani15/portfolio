@@ -7,7 +7,7 @@ export default function Page() {
           <h1 className="text-heading">Gabríel Máni</h1>
           
           <p className="text-normal">
-            hæhæ, er nemandi á þriðja ári í Tækniskólanum þar sem ég legg stund á tölvunarfræði. Ég hef sérstakan áhuga á{' '}
+            hæhæ, er nemandi á fyrst ári í Háskólanum í Reykjarvík þar sem ég legg stund á tölvunarfræði. Ég hef lokið stúdentsprófi frá Tækniskólanum af tölvunarfræðibraut .Ég hef sérstakan áhuga á{' '}
             <span className="text-lightsky">gagnafræði</span> og þróun sjálfvirkra lausna í kringum hana, auk{' '}
             <span className="text-lightgreen">vefforritunar</span>, bæði í framenda og bakenda.
           </p>
